@@ -1,0 +1,30 @@
+.mainContainer{
+    background-color:pink;
+    color: blue;
+    height: 100vh;
+    width: 100vw;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#rock{
+    border-radius: 20px;
+    background-color: pink;
+    border: solid;
+}
+#paper{
+    border-radius: 20px;
+    background-color: pink;
+    border: solid;
+}
+#scissors{
+    border-radius: 20px;
+    background-color: pink;
+    border: solid;
+}
+#result{
+    color: rgb(58, 52, 52);
+}
+.restartGame{
+   
+}
